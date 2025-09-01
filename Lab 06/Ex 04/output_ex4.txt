@@ -1,0 +1,5 @@
+MPI Monte Carlo Pi
+Total samples: 10000000
+Processes: 1
+Pi estimate: 3.14138640
+Time (s): 0.151933
