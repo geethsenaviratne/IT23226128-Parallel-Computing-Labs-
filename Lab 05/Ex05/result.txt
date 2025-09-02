@@ -1,0 +1,15 @@
+Threads used: 1
+Area of Mandelbrot set =   1.51254900 +/-   0.04783100
+Time taken = 2.541324 seconds
+
+Threads used: 2
+Area of Mandelbrot set =   1.51254900 +/-   0.04783100
+Time taken = 1.895919 seconds
+
+Threads used: 3
+Area of Mandelbrot set =   1.51254900 +/-   0.04783100
+Time taken = 1.839121 seconds
+
+Threads used: 4
+Area of Mandelbrot set =   1.51254900 +/-   0.04783100
+Time taken = 1.945484 seconds

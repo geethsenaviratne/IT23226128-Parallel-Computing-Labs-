@@ -1,0 +1,48 @@
+thread # 11
+thread # 14
+thread # 2
+thread # 8
+thread # 10
+thread # 7
+thread # 9
+thread # 13
+thread # 4
+thread # 1
+thread # 12
+thread # 3
+thread # 0
+thread # 6
+thread # 15
+thread # 5
+Outside Barrier # 6
+Outside Barrier # 13
+Outside Barrier # 1
+Outside Barrier # 11
+Outside Barrier # 10
+Hi again from thread # 6
+Outside Barrier # 7
+Outside Barrier # 9
+Hi again from thread # 11
+Outside Barrier # 3
+Hi again from thread # 13
+Outside Barrier # 5
+Hi again from thread # 7
+Outside Barrier # 12
+Hi again from thread # 5
+Hi again from thread # 3
+Hi again from thread # 12
+Outside Barrier # 2
+Hi again from thread # 2
+Outside Barrier # 4
+Outside Barrier # 15
+Hi again from thread # 4
+Hi again from thread # 15
+Outside Barrier # 14
+Hi again from thread # 14
+Hi again from thread # 10
+Hi again from thread # 1
+Hi again from thread # 9
+Outside Barrier # 8
+Hi again from thread # 8
+Outside Barrier # 0
+Hi again from thread # 0
