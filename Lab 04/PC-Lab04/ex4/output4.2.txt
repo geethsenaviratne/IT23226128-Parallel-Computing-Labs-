@@ -1,0 +1,2 @@
+Parallel Approximation of pi = 0.000000000000
+Time taken = 618.410 ms

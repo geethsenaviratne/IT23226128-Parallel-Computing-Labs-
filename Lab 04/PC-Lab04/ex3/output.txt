@@ -1,0 +1,4 @@
+Serial Pi = 3.141900
+Time (Serial) = 0.427 seconds
+Parallel Pi = 3.142135
+Time (Parallel) = 0.076 seconds

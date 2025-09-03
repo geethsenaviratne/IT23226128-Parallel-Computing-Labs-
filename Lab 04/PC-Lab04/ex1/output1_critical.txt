@@ -1,0 +1,2 @@
+Parallel Pi (Critical) = 3.141592653589910
+Time (parallel - critical): 0.147392 seconds

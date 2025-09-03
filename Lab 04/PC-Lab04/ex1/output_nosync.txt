@@ -1,0 +1,2 @@
+Parallel Pi (Atomic) = 3.141592653590062
+Time (parallel - atomic): 2.224056 seconds

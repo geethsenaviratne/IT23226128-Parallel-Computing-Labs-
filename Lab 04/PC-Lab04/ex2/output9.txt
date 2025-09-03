@@ -1,0 +1,2 @@
+Summation (Critical) = -333333333303516332032.00000
+Time taken: 0.037618 seconds
