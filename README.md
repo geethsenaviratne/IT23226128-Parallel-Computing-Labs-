@@ -7,7 +7,7 @@
 - **Institute:** Sri Lanka Institute of Information Technology (SLIIT)  
 
 ## 👨‍🎓 Student Information  
-- **Name:** Geeth Bandara Seneviratne  
+- **Name:** Geeth Seneviratne  
 - **Student ID:** IT23226128  
 
 ## 📂 Repository Overview  
