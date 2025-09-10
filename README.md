@@ -25,6 +25,3 @@ The main focus areas of this module include:
 - **Languages:** C / C++ (with OpenMP & MPI)  
 - **Tools:** GCC Compiler, OpenMPI, Linux Environment  
 - **Version Control:** Git & GitHub  
-
-Repository structure (example):  
-
